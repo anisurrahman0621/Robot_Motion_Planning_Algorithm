@@ -1,4 +1,4 @@
-# Baxter_Robot_Motion_Planning_Algorithm
+# Baxter Robot Motion Planning Algorithm
 
 ### About
 
