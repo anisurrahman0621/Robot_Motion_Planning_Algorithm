@@ -1,4 +1,4 @@
-# Combustion_Engine_Research
+# Baxter_Robot_Motion_Planning_Algorithm
 
 ### About
 
